@@ -22,7 +22,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://github.com/isaacmax23/Flixster/blob/master/Flixster/flixster2.gif" width=250><br>
+<img src="https://github.com/isaacmax23/Flixster/blob/master/Flixster/flixster21.gif" width=250><br>
 
 ### Notes
 
